@@ -52,8 +52,6 @@ TABLE OF CONTENTS
 
 12\. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
-13\. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
-
 1\. WHAT INFORMATION DO WE COLLECT?
 
 Personal information you disclose to us
@@ -162,7 +160,3 @@ We may update this privacy notice from time to time. The updated version will be
 If you have questions or comments about this notice, you may contact us by post at:
 
 parsaarya2012@gmail.com
-
-13\. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
-
-Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please fill out and submit a [data subject access request](https://app.termly.io/notify/fd4225d4-c176-4253-98f4-6c504c1b6a23).
